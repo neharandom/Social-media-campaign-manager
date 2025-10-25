@@ -1,5 +1,7 @@
 # Social-media-campaign-manager
 I have  created a comprehensive social media campaign manager with login/logout functionality.
+<img width="1086" height="803" alt="Screenshot 2025-10-25 185337" src="https://github.com/user-attachments/assets/84558921-1c99-4400-8763-6484d819a7fc" />
+
 Step-by-Step Process
 Step 1: Create Project Folder Structure
 social-media-campaign-manager/
